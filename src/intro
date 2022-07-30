@@ -52,6 +52,11 @@
    - 마지막으로 feature/todos/components의 Form.jsx, List.jsx -> 그리고 pages의 Details를 읽어주세요.
 
 6. 참고 자료?
+
    - https://develop-neoguri.notion.site/Redux-0d0b0258fee04aaf8b7cd051cf10812f
    - https://develop-neoguri.notion.site/React-Redux-2b1fc175fe064338a16cdcf58dbfd1f8
    -
+
+7. 정리 후에 알아야할 사항.
+   - 과제 내용에는 여러분들이 이 과제를 진행할 때 왜 폴더를 이렇게 구성했는지를 README.md 파일에 추가하라고 적혀있었습니다.
+   - 과제 예시의 링크 등을 통해 보시고 자신만의 폴더 구조를 갖춘 뒤 이걸 왜 이렇게 구성했는지 고민하면서 정리해봅시다.
