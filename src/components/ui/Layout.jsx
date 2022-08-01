@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-    // StContainer는 div 엘리멘트 속성을 지닌 컴포넌트입니다. (아래 코드를 보세요)
+    // StLayout는 div 엘리멘트 속성을 지닌 컴포넌트입니다. (아래 코드를 보세요)
     // 그 안에 제목과 이름을 적은 div가 추가됐다고 봐주시면 되겠습니다 :D
 
 const Layout = ({ children }) => {
